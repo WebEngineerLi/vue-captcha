@@ -1,7 +1,7 @@
 {
   "name": "vue-captcha-code",
-  "version": "1.0.0",
-  "description": "基于React和canvas的验证码",
+  "version": "1.0.1",
+  "description": "基于Vue和canvas的验证码",
   "main": "src/captcha.vue",
   "scripts": {
     "serve": "vue-cli-service serve",
