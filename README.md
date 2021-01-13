@@ -47,3 +47,8 @@ const Template = (args, { argTypes }) => ({
   `,
 });
 ```
+
+## 在线示例
+
+[![Edit vue-captcha](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/vue-captcha-qlvzt?fontsize=14&hidenavigation=1&theme=dark)
+s
