@@ -1,24 +1,21 @@
-# vue-captcha
+# vue-captcha-code
 
-## Project setup
-```
-yarn install
-```
+基于 `vue` 和 `canvas` 的一个验证码组件
 
-### Compiles and hot-reloads for development
+## 安装
+
 ```
-yarn serve
+npm install vue-captcha-code --save
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## APIS
 
-### Lints and fixes files
-```
-yarn lint
-```
+[![Edit zen-paper-9yish](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/zen-paper-9yish?fontsize=14&hidenavigation=1&theme=dark)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 基本用法
+
+### 代码示例及效果
+
+### 效果
+
+[![Edit zen-paper-9yish](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/zen-paper-9yish?fontsize=14&hidenavigation=1&theme=dark)
