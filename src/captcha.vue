@@ -31,9 +31,6 @@ export default {
     onChange: {
       type: Function,
     },
-    className: {
-      type: String,
-    },
   },
   components: {},
   data() {
